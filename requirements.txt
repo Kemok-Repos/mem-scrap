@@ -1,0 +1,6 @@
+pylint
+pytest
+black
+pandas 
+lxml 
+beautifulsoup4 
