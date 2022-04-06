@@ -4,5 +4,3 @@ black
 pandas 
 lxml 
 beautifulsoup4 
-html5lib 
-matplotlib
